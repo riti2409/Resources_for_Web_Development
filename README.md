@@ -6,6 +6,8 @@
 - Practice
 - Blogs
 
+<hr>
+
 **Lecture Videos**
 
 - [HTML](https://www.youtube.com/watch?v=BsDoLVMnmZs&ab_channel=CodeWithHarry)

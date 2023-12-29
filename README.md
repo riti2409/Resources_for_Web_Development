@@ -32,6 +32,8 @@
 
 - [Flask](https://www.youtube.com/playlist?list=PLu0W_9lII9agAiWp6Y41ueUKx1VcTRxmf)
 
+- [NextJs](https://www.youtube.com/playlist?list=PLu0W_9lII9agtWvR_TZdb_r0dNI8-lDwG)
+
 <hr>
 
 **Blogs**
